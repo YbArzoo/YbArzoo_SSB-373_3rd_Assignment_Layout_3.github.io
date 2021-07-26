@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 60px;
+    text-align: center;
+    background-color: yellowgreen;
+}
+nav{
+    height: 60px;
+    text-align: center;
+    background-color: yellow;
+}
+.content{
+    overflow: hidden;
+    text-align: center;
+}
+.left_content{
+    height: 500px;
+    width: 60%;
+    float: left;
+}
+.top_content{
+    height: 50%;
+    width: 100%;
+    background-color: turquoise;
+    float: left;
+}
+article{
+    height: 50%;
+    width: 100%;
+    background-color:tomato;
+    float: left;
+}
+aside{
+    height: 500px;
+    width: 40%;
+    background-color: violet;
+    float: right;
+}
+footer{
+    height: 50px;
+    text-align: center;
+    background-color: blueviolet;
+}
